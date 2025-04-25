@@ -1,0 +1,11 @@
+{
+    "name": "vanilla-todo-app",
+    "version": "1.0.0",
+    "description": "Simple Vanilla JS Todo App",
+    "scripts": {
+      "start": "npx serve ."
+    },
+    "dependencies": {
+      "serve": "^14.2.0"
+    }
+  }
